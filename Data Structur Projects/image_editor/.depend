@@ -1,0 +1,3 @@
+main.o: main.cpp image_editor.h drawing_window.h
+image_editor.o: image_editor.cpp image_editor.h
+drawing_window.o: drawing_window.cpp drawing_window.h

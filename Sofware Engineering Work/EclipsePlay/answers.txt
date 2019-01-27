@@ -1,0 +1,4 @@
+(1) File->revert is the equivalent of doing undo-all.
+(2) The loop goes from checking if there is a name on the list then moves to the next line and prints the name.
+	Then it jumps back up to the loop and checks if there is another name, if there is it prints it then checks again.
+(3) That it prints out the object type and the address in Hex.

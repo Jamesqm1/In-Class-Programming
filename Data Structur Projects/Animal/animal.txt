@@ -1,0 +1,19 @@
+#Q Is it a mammal?
+#Q Does it have stripes?
+#Q Is it a carnivor?
+#A Is it a tiger?
+#A Is it a zebra?
+#Q Does it walk on two legs?
+#A Is it a human?
+#Q Is it a typical pet?
+#Q Does it always land on its feet?
+#A Is it a cat?
+#A Is it a dog?
+#A Is it a lion?
+#Q Is it a bird?
+#Q Does it fly?
+#A Is it an eagle?
+#Q Does it cluck?
+#A Is it a chicken?
+#A Is it a penguin?
+#A Is it a gila monster?

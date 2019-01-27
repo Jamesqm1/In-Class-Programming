@@ -1,0 +1,5 @@
+81 gigs max
+1 foo is 8bytes
+10 foo is 8bytes
+1 bar is
+10 bar is 8bytes
